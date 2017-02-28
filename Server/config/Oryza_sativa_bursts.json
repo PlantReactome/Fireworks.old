@@ -1,0 +1,39 @@
+{
+  "bursts": {
+    "2744345": {
+      "name": "Metabolism and regulation",
+      "centerX": 100.0,
+      "centerY": 125.0,
+      "startAngle": 0.0,
+      "direction": "CLOCKWISE"
+    },
+    "8932729": {
+      "name": "Response to stress",
+      "centerX": 300.0,
+      "centerY": 100.0,
+      "startAngle": 0.0,
+      "direction": "ANTICLOCKWISE"
+    },
+    "8933811": {
+      "name": "Circadian Rhythm",
+      "centerX": 200.0,
+      "centerY": 175.0,
+      "startAngle": 0.0,
+      "direction": "CLOCKWISE"
+    },
+    "8934088": {
+      "name": "Inflorescence development",
+      "centerX": 100.0,
+      "centerY": 225.0,
+      "startAngle": 25.0,
+      "direction": "CLOCKWISE"
+    },
+    "2894886": {
+      "name": "Cellular processes",
+      "centerX": 300.0,
+      "centerY": 225.0,
+      "startAngle": 0.0,
+      "direction": "CLOCKWISE"
+    }
+  }
+}
