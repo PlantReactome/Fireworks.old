@@ -53,7 +53,7 @@ public class Utils {
             Species human = null;
             for (GKInstance s : dbIdToInst.values()) {
                 Species converted = (Species) converter.createObject(s);
-                if (s.getDBID().equals(48887L))
+                if (s.getDBID().equals(186860L)) // TODO: redeploy with this species change?
                     human = converted;
                 else
                     rtn.add(converted);

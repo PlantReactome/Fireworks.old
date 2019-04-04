@@ -14,9 +14,9 @@
         <servlet-class>org.reactome.server.utils.proxy.ProxyServlet</servlet-class>
         <init-param>
             <param-name>proxyHost</param-name>
-            <!--<param-value>localhost</param-value>-->
+            <param-value>localhost</param-value>
             <!--<param-value>www.reactome.org</param-value>-->
-            <param-value>reactomedev.oicr.on.ca</param-value>
+            <!--param-value>reactomedev.oicr.on.ca</param-value-->
         </init-param>
         <init-param>
             <param-name>proxyPort</param-name>
@@ -40,9 +40,9 @@
         <servlet-class>org.reactome.server.utils.proxy.ProxyServlet</servlet-class>
         <init-param>
             <param-name>proxyHost</param-name>
-            <!--<param-value>localhost</param-value>-->
+            <param-value>localhost</param-value>
             <!--<param-value>reactomedev.oicr.on.ca</param-value>-->
-            <param-value>reactome.org</param-value>
+            <!--<param-value>reactome.org</param-value>-->
         </init-param>
         <init-param>
             <param-name>proxyPort</param-name>
@@ -66,9 +66,9 @@
         <servlet-class>org.reactome.server.utils.proxy.ProxyServlet</servlet-class>
         <init-param>
             <param-name>proxyHost</param-name>
-            <!--<param-value>localhost</param-value>-->
+            <param-value>localhost</param-value>
             <!--<param-value>reactomedev.oicr.on.ca</param-value>-->
-            <param-value>reactome.org</param-value>
+            <!--<param-value>reactome.org</param-value>-->
         </init-param>
         <init-param>
             <param-name>proxyPort</param-name>
@@ -106,7 +106,8 @@
         <servlet-class>org.reactome.server.utils.proxy.ProxyServlet</servlet-class>
         <init-param>
             <param-name>proxyHost</param-name>
-            <param-value>www.reactome.org</param-value>
+            <!--<param-value>www.reactome.org</param-value>-->
+            <param-value>localhost</param-value>
         </init-param>
         <init-param>
             <param-name>proxyPort</param-name>

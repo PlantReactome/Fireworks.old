@@ -59,8 +59,8 @@ public class WidgetTest implements EntryPoint {
                 FireworksFactory.EVENT_BUS_VERBOSE = true;
 //                FireworksFactory.SHOW_INFO = true;
 
-                loadSpeciesFireworks("Homo_sapiens");
-//                loadSpeciesFireworks("Oryza_sativa");
+                //loadSpeciesFireworks("Homo_sapiens");
+                loadSpeciesFireworks("Oryza_sativa");
 //                loadSpeciesFireworks("Gallus_gallus");
 //                loadSpeciesFireworks("Mycobacterium_tuberculosis");
 //                loadSpeciesFireworks("Mus_musculus");
